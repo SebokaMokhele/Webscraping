@@ -1,0 +1,38 @@
+open sublime text
+
+ctrl + shift + p
+
+type 'install package control'
+
+click and install it. (package control was successfully installed)
+click okay
+
+ctrl + shift + p
+
+type 'Package control: install package'
+
+type 'terminality' in the pop-up dialog box
+
+install it.
+
+it will list the languages supported.
+
+click preference -> package settings -> terminality -> key bindings- Default
+
+keys: ["ctrl+alt+r"] is used to run the code
+
+
+_______________________________
+For data visualization projects
+_______________________________
+
+ctrl + shift + p
+
+type 'Package control: install package'
+
+type 'sublimeREPL' in the pop-up dialog box
+
+install it.
+
+click tools -> sublimeREPL -> Python -> Python-RUN current file
+(output will appear)
